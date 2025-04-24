@@ -1,4 +1,6 @@
 ---
+title: Home
 ---
 
-# tonic-starter
+# arctic
+just a real cool jekyll theme 😎🐧
